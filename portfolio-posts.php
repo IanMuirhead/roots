@@ -1,9 +1,8 @@
 <?php
 /*
-Template Name: Ian Muirhead - Homepage
+Template Name: Boats'n'Hoes
 */
 ?>
-
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
   <?php while (have_posts()) : the_post(); ?>
